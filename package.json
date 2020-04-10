@@ -1,5 +1,5 @@
 {
-  "name": "birthday",
+  "name": "birthday-project",
   "version": "1.0.0",
   "description": "Birthday greetings..",
   "main": " ",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/bikkimahato/birthday-project.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
+  "author": "Bikki Mahato",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/bikkimahato/birthday-project/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/bikkimahato/birthday-project#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.12.1"
   }
 }
