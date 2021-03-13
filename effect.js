@@ -174,8 +174,8 @@ $('document').ready(function () {
   });
 
   $('#story').click(function () {
-    audio.pause();
     audio2.play();
+    audio.pause();
     $(this).fadeOut('slow');
     $('.cake')
       .fadeOut('fast')
@@ -195,7 +195,7 @@ $('document').ready(function () {
           i = i + 1;
           $('p:nth-child(' + i + ')')
             .fadeIn('slow')
-            .delay(1000);
+            .delay(3000);
           if (i == 50) {
             $('p:nth-child(49)')
               .fadeOut('slow')
