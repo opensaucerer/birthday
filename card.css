@@ -104,7 +104,7 @@ body {
 
 .inside-page__btn {
     background-color: transparent;
-    border: 3px solid;
+    border: 1px solid;
     border-radius: .5rem;
     font-size: 1.2rem;
     font-weight: 600;
@@ -131,8 +131,8 @@ body {
 }
 
 .inside-page__btn--city {
-    border-color: #ff40a1;
-    color: #ff40a1;
+    border-color: #47c2d7;
+    color: #47c2d7;
 }
 
 .inside-page__btn--city::before {
